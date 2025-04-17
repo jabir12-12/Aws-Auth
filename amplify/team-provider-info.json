@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fileupload-dev-ace8e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::448049823005:role/amplify-fileupload-dev-ace8e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::448049823005:role/amplify-fileupload-dev-ace8e-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-fileupload-dev-ace8e-deployment",
+      "UnauthRoleName": "amplify-fileupload-dev-ace8e-unauthRole",
+      "StackName": "amplify-fileupload-dev-ace8e",
+      "StackId": "arn:aws:cloudformation:ap-south-1:448049823005:stack/amplify-fileupload-dev-ace8e/83c5fca0-1a03-11f0-80a3-06d95716a035",
+      "AmplifyAppId": "d2lijd2mt7448z"
+    },
+    "categories": {
+      "auth": {
+        "fileupload33e02d61": {}
+      },
+      "storage": {
+        "fileupload": {}
+      }
+    }
+  }
+}

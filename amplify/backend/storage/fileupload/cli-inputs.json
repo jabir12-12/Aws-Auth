@@ -1,0 +1,16 @@
+{
+  "resourceName": "fileupload",
+  "policyUUID": "d10b1e13",
+  "bucketName": "fileupload11e84552168c4de2913e6a0b3a33cd1b",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
